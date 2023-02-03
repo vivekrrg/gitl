@@ -1,2 +1,3 @@
 # gitl
-This is my redme file
+This is my readme file
+I have created it for project information
